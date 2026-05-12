@@ -1,4 +1,4 @@
-# # Ethereum Activity Analysis: Participation vs Engagement
+ 𝗘𝘁𝗵𝗲𝗿𝗲𝘂𝗺 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: 𝗣𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝘁𝗶𝗼𝗻 𝘃𝘀 𝗘𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁
 
  𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧
 
